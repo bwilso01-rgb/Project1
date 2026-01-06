@@ -1,0 +1,21 @@
+ body{
+            background: url(https://99815201f25d3e1f719f.cdn6.editmysite.com/uploads/b/b12532a0-b895-11ea-b497-c99fad5e4970/f61244bc8ec4bd4f8b89478727fe4244.jpeg?width=2400&optimize=medium) no-repeat center;
+        }
+    h1{
+        color: black;
+        font-size: 40px;
+        background-color: orange;
+    }
+
+    #nice {
+        color: black;
+        font-size: 40px;
+        background: orange;
+    }
+    
+    .good {
+        color: blue;
+    }
+    .new {
+background: orange;
+}
